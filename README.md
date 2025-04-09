@@ -1,7 +1,7 @@
-PyAutoGUI
+PyAutoGUI 2
 =========
 
-PyAutoGUI is a  cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
+PyAutoGUI 2 is fork of the original, now unmaintained, PyAutoGUI Python library. It seeks to improve ease of use and maintainability of the original library by refactoring the library and opening maintenance to the community. It allows the user to programmatically control the mouse & keyboard.
 
 Full documentation available at https://pyautogui.readthedocs.org
 
