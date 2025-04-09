@@ -3,20 +3,14 @@ PyAutoGUI
 
 PyAutoGUI is a  cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 
-`pip install pyautogui`
-
 Full documentation available at https://pyautogui.readthedocs.org
 
 Simplified Chinese documentation available at https://github.com/asweigart/pyautogui/blob/master/docs/simplified-chinese.ipynb
-
-Source code available at https://github.com/asweigart/pyautogui
 
 If you need help installing Python, visit https://installpython3.com/
 
 Dependencies
 ============
-
-PyAutoGUI supports Python 2 and 3. If you are installing PyAutoGUI from PyPI using pip:
 
 Windows has no dependencies. The Win32 extensions do not need to be installed.
 
@@ -123,8 +117,3 @@ The three major operating systems (Windows, macOS, and Linux) each have differen
 
 * On Linux, PyAutoGUI uses the `Xlib` module to access the X11 or X Window System.
 
-
-Support
--------
-
-If you find this project helpful and would like to support its development, [consider donating to its creator on Patreon](https://www.patreon.com/AlSweigart).
